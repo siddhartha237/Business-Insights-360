@@ -180,14 +180,6 @@ In Home view, all the views button will be available. User will land on specific
 - Products
 - Support
 
-## Overall Report
-
-![Overall Report.gif](https://github.com/Naveen-S6/Business_Insights_360/blob/main/Resources/Overall.gif)
-
-## Info Page
-
-![Info.gif](https://github.com/Naveen-S6/Business_Insights_360/blob/main/Resources/Info.gif)
-
 ## Finance View
 
 ![image](https://github.com/siddhartha237/Business-Insights-360/assets/146628886/e11ba325-c9b2-4b2d-91a3-abe1f0872cc6)
