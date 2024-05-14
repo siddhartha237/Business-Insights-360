@@ -4,9 +4,9 @@
 
 AtliQ Hardware is growing rapidly in the recent years, and they have decided to implement the data analytics using PowerBi in their company for the first time to surpass their competitors in the market and to make data driven decisions. This project is hoped to give answers to the questions of stakeholder in terms all the aspects like finance, sales, marketing and supply chain.
 
-I worked on this project by following the Codebasics PowerBi Course, Link to the course is [here](https://codebasics.io/courses/power-bi-data-analysis-with-end-to-end-project)
+I worked on this project by following the Codebasics PowerBi Course.
 
-[Live Report Link](https://www.novypro.com/project/atliq-hardware-business-insights-360)
+[Live Report Link](https://app.powerbi.com/view?r=eyJrIjoiNDQ3ZjJiZDEtYWViYi00MDcwLWEzODctZGI5Njc3ZDk4YWQ4IiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)
 
 ## Tech stacks
 
@@ -160,7 +160,8 @@ Fact table : It will have the data about the transactions
 - Following Good practices of data modeling is must. Refer this page to get to know the good practices [Blog](https://addendanalytics.com/blog/data-modelling-best-practices/)
 - In this project, we have followed Snowfall data modeling method.
 
-<img src="https://github.com/Naveen-S6/Business_Insights_360/blob/main/Resources/Data_model.png" class="center">
+![image](https://github.com/siddhartha237/Business-Insights-360/assets/146628886/d10511e7-eef9-4666-a316-b915057e8bae)
+
 
 ### Dashboard designing
 
@@ -189,28 +190,26 @@ In Home view, all the views button will be available. User will land on specific
 
 ## Finance View
 
-![Finace.gif](https://github.com/Naveen-S6/Business_Insights_360/blob/main/Resources/Finace.gif)
+![image](https://github.com/siddhartha237/Business-Insights-360/assets/146628886/e11ba325-c9b2-4b2d-91a3-abe1f0872cc6)
+
 ## Sales View
 
-![Sales.gif](https://github.com/Naveen-S6/Business_Insights_360/blob/main/Resources/Sales.gif)
+![image](https://github.com/siddhartha237/Business-Insights-360/assets/146628886/aa6a3f35-8fa7-4db9-b7f6-01c9e7b66f0e)
+
 
 ## Marketing View
 
-![Marketing.gif](https://github.com/Naveen-S6/Business_Insights_360/blob/main/Resources/Marketing.gif)
+![image](https://github.com/siddhartha237/Business-Insights-360/assets/146628886/9b50b421-6b2b-41f9-a04a-c07819d7e0b5)
+
 
 ## Supply chain View
 
-![Supply chain.gif](https://github.com/Naveen-S6/Business_Insights_360/blob/main/Resources/supply%20chain.gif)
+![image](https://github.com/siddhartha237/Business-Insights-360/assets/146628886/688a6195-41a6-4b51-a7cc-b95b6d50a1c1)
+
 
 ## Executive View
 
-![Executive.gif](https://github.com/Naveen-S6/Business_Insights_360/blob/main/Resources/Executive.gif)
-
-## Products
-
-![Products](https://github.com/Naveen-S6/Business_Insights_360/blob/main/Resources/Products%20View.gif)
-
-you can find the full report file here : [Report](https://github.com/Naveen-S6/Business_Insights_360/blob/main/Report/360.pbix)
+![image](https://github.com/siddhartha237/Business-Insights-360/assets/146628886/2bd474d2-8698-4de0-8496-b3ea5eedfc85)
 
 
 ## Project Outcome
